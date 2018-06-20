@@ -1,5 +1,7 @@
 # METHODOLOGY: Using machine learning to predict the best defenders in the 2018 draft
 
+If the .ipynb titled "master-draft-class-defenders-ml" does not open, try opening the "master-draft-class-defenders-ml-NO-OUTPUTS" file. The original has all the outputs saved, making it a large file which GitHub sometimes can't open.
+
 [Link to blog post.](https://dribbleanalytics.blogspot.com/2018/06/using-machine-learning-to-predict-best.html
 )
 
